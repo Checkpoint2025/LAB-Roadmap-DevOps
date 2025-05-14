@@ -2,7 +2,7 @@
 
 echo "=== System Resource Summary ==="
 
-# 1.Operation system
+# 1.Operating system
 echo -e "\n--- OS Release ---"
 cat /etc/os-release
 
